@@ -1,0 +1,234 @@
+C:\Users\Tim\Documents\2014Spring - NTU Course\2014 VFX\Project2\p2\ann_wrapper\setset\prn01.jpg
+192 256
+
+1 0 127.5 
+0 1 95.5 
+0 0 1 
+
+0.999719 0.0194382 0.0135594 
+-0.0194364 0.999811 -0.000263532 
+-0.013562 -1.37026e-007 0.999908 
+
+352.591
+
+C:\Users\Tim\Documents\2014Spring - NTU Course\2014 VFX\Project2\p2\ann_wrapper\setset\prn02.jpg
+192 256
+
+1 0 127.5 
+0 1 95.5 
+0 0 1 
+
+0.999684 0.0242589 0.00659199 
+-0.0206024 0.940879 -0.338115 
+-0.0144046 0.337872 0.941082 
+
+352.478
+
+C:\Users\Tim\Documents\2014Spring - NTU Course\2014 VFX\Project2\p2\ann_wrapper\setset\prn03.jpg
+192 256
+
+1 0 127.5 
+0 1 95.5 
+0 0 1 
+
+0.999693 0.0247492 -0.000421696 
+-0.019314 0.769266 -0.638636 
+-0.0154814 0.638449 0.769509 
+
+352.576
+
+C:\Users\Tim\Documents\2014Spring - NTU Course\2014 VFX\Project2\p2\ann_wrapper\setset\prn04.jpg
+192 256
+
+1 0 127.5 
+0 1 95.5 
+0 0 1 
+
+0.999756 0.0212261 -0.00601679 
+-0.015815 0.499337 -0.866263 
+-0.015383 0.866148 0.499552 
+
+352.493
+
+C:\Users\Tim\Documents\2014Spring - NTU Course\2014 VFX\Project2\p2\ann_wrapper\setset\prn05.jpg
+192 256
+
+1 0 127.5 
+0 1 95.5 
+0 0 1 
+
+0.9998 0.0168278 -0.010791 
+-0.0136425 0.179802 -0.983608 
+-0.0146118 0.983559 0.179995 
+
+352.247
+
+C:\Users\Tim\Documents\2014Spring - NTU Course\2014 VFX\Project2\p2\ann_wrapper\setset\prn06.jpg
+192 256
+
+1 0 127.5 
+0 1 95.5 
+0 0 1 
+
+0.99985 0.0107991 -0.0135404 
+-0.0115212 -0.169019 -0.985546 
+-0.0129316 0.985554 -0.168869 
+
+351.805
+
+C:\Users\Tim\Documents\2014Spring - NTU Course\2014 VFX\Project2\p2\ann_wrapper\setset\prn07.jpg
+192 256
+
+1 0 127.5 
+0 1 95.5 
+0 0 1 
+
+0.99972 0.00121188 -0.0236138 
+-0.0198032 -0.502763 -0.864198 
+-0.0129195 0.864424 -0.502598 
+
+352.654
+
+C:\Users\Tim\Documents\2014Spring - NTU Course\2014 VFX\Project2\p2\ann_wrapper\setset\prn08.jpg
+192 256
+
+1 0 127.5 
+0 1 95.5 
+0 0 1 
+
+0.999727 -0.00590668 -0.0225833 
+-0.0190918 -0.763564 -0.64545 
+-0.0134314 0.645706 -0.763468 
+
+352.409
+
+C:\Users\Tim\Documents\2014Spring - NTU Course\2014 VFX\Project2\p2\ann_wrapper\setset\prn09.jpg
+192 256
+
+1 0 127.5 
+0 1 95.5 
+0 0 1 
+
+0.99973 -0.0123937 -0.0196293 
+-0.0184013 -0.938575 -0.344583 
+-0.0141529 0.344852 -0.93855 
+
+352.05
+
+C:\Users\Tim\Documents\2014Spring - NTU Course\2014 VFX\Project2\p2\ann_wrapper\setset\prn10.jpg
+192 256
+
+1 0 127.5 
+0 1 95.5 
+0 0 1 
+
+0.999726 -0.0183377 -0.0145223 
+-0.0183318 -0.999832 0.000543215 
+-0.0145299 -0.000276817 -0.999894 
+
+352.284
+
+C:\Users\Tim\Documents\2014Spring - NTU Course\2014 VFX\Project2\p2\ann_wrapper\setset\prn11.jpg
+192 256
+
+1 0 127.5 
+0 1 95.5 
+0 0 1 
+
+0.999717 -0.022393 -0.00808228 
+-0.0183479 -0.941045 0.337784 
+-0.0151698 -0.33754 -0.941189 
+
+352.643
+
+C:\Users\Tim\Documents\2014Spring - NTU Course\2014 VFX\Project2\p2\ann_wrapper\setset\prn12.jpg
+192 256
+
+1 0 127.5 
+0 1 95.5 
+0 0 1 
+
+0.999745 -0.0225733 -0.00107463 
+-0.0165507 -0.763733 0.645321 
+-0.0153877 -0.645138 -0.763911 
+
+352.679
+
+C:\Users\Tim\Documents\2014Spring - NTU Course\2014 VFX\Project2\p2\ann_wrapper\setset\prn13.jpg
+192 256
+
+1 0 127.5 
+0 1 95.5 
+0 0 1 
+
+0.999746 -0.0213592 0.00714395 
+-0.0168963 -0.501552 0.864962 
+-0.0148918 -0.864864 -0.501786 
+
+352.598
+
+C:\Users\Tim\Documents\2014Spring - NTU Course\2014 VFX\Project2\p2\ann_wrapper\setset\prn14.jpg
+192 256
+
+1 0 127.5 
+0 1 95.5 
+0 0 1 
+
+0.99976 -0.0172825 0.0134446 
+-0.0161769 -0.169188 0.985451 
+-0.0147564 -0.985432 -0.169427 
+
+352.492
+
+C:\Users\Tim\Documents\2014Spring - NTU Course\2014 VFX\Project2\p2\ann_wrapper\setset\prn15.jpg
+192 256
+
+1 0 127.5 
+0 1 95.5 
+0 0 1 
+
+0.99976 -0.0112089 0.0188419 
+-0.0166244 0.172699 0.984834 
+-0.0142929 -0.984911 0.172471 
+
+352.422
+
+C:\Users\Tim\Documents\2014Spring - NTU Course\2014 VFX\Project2\p2\ann_wrapper\setset\prn16.jpg
+192 256
+
+1 0 127.5 
+0 1 95.5 
+0 0 1 
+
+0.999767 -0.00407123 0.0211945 
+-0.0163567 0.497738 0.867173 
+-0.0140798 -0.867318 0.497555 
+
+352.958
+
+C:\Users\Tim\Documents\2014Spring - NTU Course\2014 VFX\Project2\p2\ann_wrapper\setset\prn17.jpg
+192 256
+
+1 0 127.5 
+0 1 95.5 
+0 0 1 
+
+0.999815 0.00203108 0.0191219 
+-0.0138973 0.763608 0.645531 
+-0.0132906 -0.645678 0.763495 
+
+352.191
+
+C:\Users\Tim\Documents\2014Spring - NTU Course\2014 VFX\Project2\p2\ann_wrapper\setset\prn00.jpg
+192 256
+
+1 0 127.5 
+0 1 95.5 
+0 0 1 
+
+0.99974 0.0130043 0.0187047 
+-0.0187479 0.9361 0.351233 
+-0.012942 -0.351493 0.936101 
+
+352.737
+
